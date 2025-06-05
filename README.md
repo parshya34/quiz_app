@@ -19,5 +19,4 @@ A simple and interactive **Flutter Quiz App** that allows users to test their kn
 - **Dart**
 - **Material Design**
 
-## 📂 Project Structure
 
