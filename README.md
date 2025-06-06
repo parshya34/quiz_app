@@ -11,7 +11,7 @@ A simple and interactive **Flutter Quiz App** that allows users to test their kn
 - Lightweight and fast
 
 ## 📱 Progressive Web App Link:
-  prashant-pwa-quiz-app.surge.sh
+  [Link for Quiz App](prashant-pwa-quiz-app.surge.sh)
 
 
 ## 🛠️ Tech Stack
