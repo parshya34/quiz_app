@@ -10,7 +10,8 @@ A simple and interactive **Flutter Quiz App** that allows users to test their kn
 - Flutter state management
 - Lightweight and fast
 
-## 📱 Screenshots
+## 📱 Progressive Web App Link:
+  prashant-pwa-quiz-app.surge.sh
 
 
 ## 🛠️ Tech Stack
